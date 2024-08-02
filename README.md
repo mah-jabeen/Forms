@@ -1,2 +1,3 @@
 # Forms
- This is login Signup forms. Made with the help of html5, core concepts of css3 like postions,css animation Flexbox.
+ This is the login and Signup forms. Made with the help of HTML5, core concepts of CSS3 like positions, and CSS animation Flexbox.
+ Deploy link: https://forms00.netlify.app
